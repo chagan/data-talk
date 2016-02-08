@@ -1,4 +1,4 @@
-# FOIA Fest Data Panel
+# Data literacy and visualization basics
 
 ## How to FOIA data
 ### Federal FOIA example
@@ -61,4 +61,4 @@ Sincerely,
 Chris Hagan
 
 ## You have some data. Now what?
-* See [slides, resources here](http://chagan.github.io/foia-fest-data/#/)
+* See [slides, resources here](http://chagan.github.io/data-talk/#/)
